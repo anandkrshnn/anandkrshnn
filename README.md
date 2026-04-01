@@ -1,7 +1,7 @@
 # Anandakrishnan Damodaran
 ### Principal Data Scientist & Sovereign AI Architect
 ### Featured Project: PTV Protocol Demo
-[![PTV Demo](https://github-readme-stats.vercel.app/api/pin/?username=anandkrshnn&repo=ptv-demo)](https://github.com/anandkrshnn/ptv-demo)
+
 > Building federated, hardware-anchored AI identity frameworks for regulated industries (Healthcare · Finance)
 
 **Current Focus:** Sovereign AI Stack — Zero-Knowledge ETL, Agent Identity, Cross-Border Compliance
@@ -14,6 +14,7 @@
 | [sovereign-ai-stack](https://github.com/anandkrshnn/sovereign-ai-stack) | ZKP-based agent identity & PTV authorization framework |
 | [protocol-z-federate](https://github.com/anandkrshnn/protocol-z-federate) | HotStuff BFT federation hub for sovereign mesh |
 | [gaip-2030-standard](https://github.com/anandkrshnn/gaip-2030-standard) | AI governance framework — 83/16/1 model |
+[![PTV Demo](https://github-readme-stats.vercel.app/api/pin/?username=anandkrshnn&repo=ptv-demo)](https://github.com/anandkrshnn/ptv-demo)
 
 ---
 
