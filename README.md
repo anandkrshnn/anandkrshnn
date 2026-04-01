@@ -1,6 +1,7 @@
 # Anandakrishnan Damodaran
 ### Principal Data Scientist & Sovereign AI Architect
-
+### Featured Project: PTV Protocol Demo
+[![PTV Demo](https://github-readme-stats.vercel.app/api/pin/?username=anandkrshnn&repo=ptv-demo)](https://github.com/anandkrshnn/ptv-demo)
 > Building federated, hardware-anchored AI identity frameworks for regulated industries (Healthcare · Finance)
 
 **Current Focus:** Sovereign AI Stack — Zero-Knowledge ETL, Agent Identity, Cross-Border Compliance
