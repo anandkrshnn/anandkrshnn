@@ -1,5 +1,5 @@
-# 👋 Anandakrishnan Damodaran
-### 🏛️ Sovereign AI Architect | IETF Author | Building the Digital Passport for AI
+#  Anandakrishnan Damodaran
+###  Sovereign AI Architect | IETF Author | Building the Digital Passport for AI
 
 > [!IMPORTANT]
 > **🚀 Launching Sovereign AI Stack v4.0.0-PROD**  
