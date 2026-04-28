@@ -2,18 +2,18 @@
 ### 🏛️ Sovereign AI Architect | IETF Author | Building the Digital Passport for AI
 
 > [!IMPORTANT]
-> **🚀 Launching Sovereign AI Stack v4.0.0-PROD**  
-> The world's first hardware-anchored governance layer for autonomous agents.  
-> **Unit Economics:** 2500x Cost Reduction ($5.00 → $0.002 per attestation).  
-> **Status:** 🟢 Pilot Ready | EU AI Act Annex IV Aligned | NIST RMF Compliant.
+> **🚀 Launching Sovereign AI Stack v1.0.0-GA**  
+> **The Verified Airlock for Local AI** — Retrieve. Verify. Gate. Prove.
+> A production-grade orchestration platform for high-trust environments (Healthcare, Finance).
+> **Status:** 🟢 Live on PyPI & GitHub | EU AI Act Aligned | NIST RMF Compliant.
 
 ---
 
 ## 🌍 Vision: The Post-Application Era (PAE)
 I am leading the transition from "Black Box" AI anxiety to **Hardware-Proven Trust**. My work focuses on the **Sovereign AI Stack**, an open-standard infrastructure that provides a **Digital Passport** for every AI agent, ensuring identity, privacy, and governance at machine speed.
 
-### 🏆 The Flagship: Sovereign AI Stack (v4.0.0-PROD)
-A strategic governance platform combining **TPM 2.0**, **Zero-Knowledge Proofs**, and the **83/16/1 Governance Rule**.
+### 🏆 The Flagship: Sovereign AI Stack (v1.0.0-GA)
+A strategic governance platform providing a cryptographic **"Verified Airlock"** through hybrid retrieval, a grounding judge model, and a hardware-anchored forensic audit chain.
 
 | Metric | Performance | Evidence Link |
 | :--- | :--- | :--- |
