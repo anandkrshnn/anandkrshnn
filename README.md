@@ -1,54 +1,40 @@
 # 👋 Anandakrishnan Damodaran
-### 🏛️ Sovereign AI Architect | IETF Author | Building the Digital Passport for AI
 
-> [!IMPORTANT]
-> **🚀 Launching Sovereign AI Stack v1.0.0-GA**  
-> **The Verified Airlock for Local AI** — Retrieve. Verify. Gate. Prove.
-> A production-grade orchestration platform for high-trust environments (Healthcare, Finance).
-> **Status:** 🟢 Live on PyPI & GitHub | EU AI Act Aligned | NIST RMF Compliant.
+### Sovereign AI Architect | IETF Author | Building a verification and audit plane for local-first AI systems
+
+> **[Sovereign AI Stack v1.0.0-GA](https://github.com/anandkrshnn/sovereign-ai-stack) is live on PyPI and GitHub.**  
+> A local-first orchestration platform with verification, policy routing, and tamper-evident auditability for high-trust environments.
 
 ---
 
-## 🌍 Vision: The Post-Application Era (PAE)
-I am leading the transition from "Black Box" AI anxiety to **Hardware-Proven Trust**. My work focuses on the **Sovereign AI Stack**, an open-standard infrastructure that provides a **Digital Passport** for every AI agent, ensuring identity, privacy, and governance at machine speed.
+## 🌍 Current Focus
 
-### 🏆 The Flagship: Sovereign AI Stack (v1.0.0-GA)
+I am focused on transitioning AI infrastructure from "Black Box" models to **Hardware-Proven Trust**. My primary work is the **Sovereign AI Stack**, an open-standard infrastructure designed to support regulated environments (Healthcare, Finance) by ensuring data privacy, identity verification, and governance at machine speed.
+
+### 🏆 Featured Project: Sovereign AI Stack (v1.0.0-GA)
 A strategic governance platform providing a cryptographic **"Verified Airlock"** through hybrid retrieval, a grounding judge model, and a hardware-anchored forensic audit chain.
 
-| Metric | Performance | Evidence Link |
-| :--- | :--- | :--- |
-| **Latency** | ⚡ **187ms** (Avg) | [📄 Benchmark Report](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/testing/TESTING_TRANSPARENCY_REPORT.md) |
-| **Cost** | 💰 **$0.002** / event | [📄 White Paper §5](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/whitepaper/TECHNICAL_WHITEPAPER_v4.md) |
-| **Security** | 🛡️ **>85%** Code Cov | [📄 QA Strategy](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/quality/QA_TEST_STRATEGY.md) |
-| **Compliance** | ⚖️ **EU AI Act** Ready | [📄 TDF Template](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/compliance/EU_AI_ACT_TDF_TEMPLATE.md) |
+*   **Performance:** 124 QPS, 4.88ms latency (p50) for ABAC gates.
+*   **Compliance Ready:** Includes templates targeting EU AI Act and NIST RMF-style governance requirements.
+*   **Open Source:** Built in Python, fully local, and licensed under MIT.
 
 ---
 
-## 🛡️ The Triple-Lock Strategic Moat
-We are building an unassailable standard for AI identity:
+## 📜 Standards & Research
 
-1.  **🎨 Visual Moat (Trademark):** Proprietor of **PTV Protocol™**, **SovereignStack™**, and the **Level 4™ Badge**.
-2.  **📜 Protocol Moat (Prior Art):** Author of IETF Draft [`draft-anandakrishnan-ptv-attested-agent-identity`](https://datatracker.ietf.org/doc/draft-anandakrishnan-ptv-attested-agent-identity/).
-3.  **⚖️ Regulatory Moat (Capture):** Direct contributor to **NIST NCCoE** and **ENISA** sandbox initiatives.
+I am building open standards for AI identity and attestation:
 
----
-
-## 📄 Key Resources
-| Document | Description | Link |
-| :--- | :--- | :--- |
-| **📄 Technical White Paper** | The architecture, economics, and moat of PTV Protocol™. | [Read PDF](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/whitepaper/TECHNICAL_WHITEPAPER_v4.md) |
-| **🛡️ Ops Dashboard** | Real-time security posture, SBOMs, and compliance status. | [View Dashboard](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/sops/SOP_DASHBOARD.md) |
-| **🎥 Demo Video** | 2-min walkthrough of the v4.0.0 Hero Handshake. | [Watch Video](https://youtube.com/) *(Update with your link)* |
-| **📊 Pitch Deck** | Investment opportunity: $2M Pre-Seed Round. | [Request Access](mailto:ananda.krishnan@hotmail.com) |
+*   **IETF Draft:** Author of [`draft-anandakrishnan-ptv-attested-agent-identity`](https://datatracker.ietf.org/doc/draft-anandakrishnan-ptv-attested-agent-identity/) (The PTV Protocol).
+*   **Technical White Paper:** Architecture and economics of the PTV Protocol. [Read PDF](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/whitepaper/TECHNICAL_WHITEPAPER_v4.md)
 
 ---
 
-## 🤝 Engage With Me
-I am currently accepting **Pilot Partners** (Healthcare/FinTech) and engaging with **Pre-Seed Investors**.
+## 🤝 Let's Connect
+
+I am currently seeking open-source collaborators and engaging with teams deploying AI in regulated environments.
 
 *   **📧 Email:** [ananda.krishnan@hotmail.com](mailto:ananda.krishnan@hotmail.com)
-*   **📅 Book a Demo:** [Calendly Link](https://calendly.com/) *(Update with your link)*
 *   **🔗 LinkedIn:** [linkedin.com/in/anandkrshnn](https://www.linkedin.com/in/anandkrshnn)
 
 > [!NOTE]
-> **Open Source & Standards:** All core protocols are open for community review under MIT/Apache licenses. Commercial certification available via Sovereign AI Pvt Ltd.
+> All core protocols are open for community review and contribution.
