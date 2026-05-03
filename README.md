@@ -1,47 +1,51 @@
 # Anandakrishnan Damodaran
 
-### Sovereign AI Architect | IETF Author | Building verification-first AI infrastructure
+### Sovereign AI Architect | Building Technically-Verifiable AI Infrastructure
 
-I build systems for **high-trust AI**: local-first orchestration, policy enforcement, verifiable outputs, and tamper-evident auditability.
+I build systems for **high-trust AI**: deterministic orchestration, policy enforcement, and cryptographically-verifiable forensics. 
 
-## Current focus
+My work focuses on replacing unreliable "Generative Judges" with **deterministic NLI Cross-Encoders** and basic hash chains with **Ed25519 asymmetric signatures**.
 
-### [Sovereign AI Stack v1.0.0](https://github.com/anandkrshnn/sovereign-ai-stack)
-**The Verified Airlock for local-first AI** — retrieve, verify, gate, and audit.
+---
 
-Sovereign AI Stack is an open-source orchestration platform designed for environments where privacy, governance, and traceability matter. It combines hybrid retrieval, policy-based controls, verification, and a unified forensic chain into a single local-first runtime.
+## 🛠️ Flagship Projects
 
-- Local-first RAG and orchestration
-- Mandatory verification gate for response control
-- Policy-aware access and routing
-- Tamper-evident audit trail
-- OpenAI-compatible API, CLI, and dashboard
+### 🛰️ [Sovereign AI Stack v1.0.1](https://github.com/anandkrshnn/sovereign-ai-stack)
+**Deterministic RAG Verification & Governance**
+A reference implementation for local-first AI that prioritizes grounding integrity over marketing hype.
+- **Innovation**: Replaced slow LLM judges (~2000ms) with a **DeBERTa-v3 NLI gate (80ms)**.
+- **Security**: Full **Ed25519 forensic chain** for non-repudiable audit trails.
+- **Trust**: Hardware-backed key management (OS Keyring/TPM integration).
 
-**Live now:** [PyPI](https://pypi.org/project/sovereign-ai-stack/) · [GitHub Repo](https://github.com/anandkrshnn/sovereign-ai-stack)
+### 🛰️ [local-rag](https://github.com/anandkrshnn/local-rag)
+The core retrieval engine for sovereign environments. Hybrid search (BM25 + Vector) with strict ABAC policy gating and signed forensics.
 
-## Why this work
+### 🛰️ [local-agent](https://github.com/anandkrshnn/local-agent)
+A lightweight, auditable orchestration layer for local AI agents, focusing on fail-closed tool governance and tamper-evident execution logs.
 
-Most local AI stacks optimize for convenience or speed. My focus is on making local and hybrid AI systems more trustworthy, inspectable, and governable — especially for healthcare, finance, and other high-trust settings.
+---
 
-## Selected evidence
+## 🔬 Technical Focus Areas
 
-| Area | Evidence |
-| :--- | :--- |
-| Architecture | [Technical White Paper](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/whitepaper/TECHNICAL_WHITEPAPER_v4.md) |
-| Testing | [Testing Transparency Report](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/testing/TESTING_TRANSPARENCY_REPORT.md) |
-| Quality | [QA Strategy](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/quality/QA_TEST_STRATEGY.md) |
-| Compliance Mapping | [EU AI Act Template](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/compliance/EU_AI_ACT_TDF_TEMPLATE.md) |
+- **Grounding Verification**: Using Natural Language Inference (NLI) for deterministic hallucination control.
+- **Asymmetric Forensics**: Implementing Ed25519 signatures in audit logs to ensure non-repudiation.
+- **Local-First Governance**: Policy enforcement (ABAC) at the retrieval and tool-call layers without external dependencies.
+- **Hardware-Backed Trust**: Integrating with OS-level secure enclaves for identity and signature management.
 
-## Standards and protocol work
+---
 
-I am also working on open standards for AI identity, attestation, and governance.
+## 📜 Standards & Research
 
-- IETF Draft: [draft-anandakrishnan-ptv-attested-agent-identity](https://datatracker.ietf.org/doc/draft-anandakrishnan-ptv-attested-agent-identity/)
-- Research themes: sovereign AI, agent identity, verification, compliance, and hardware-backed trust
+I am an advocate for open standards in AI identity and governance. 
+- **IETF Draft**: [Attested Agent Identity (PTV)](https://datatracker.ietf.org/doc/html/draft-anandakrishnan-ptv-00)
+- **Vision**: Transitioning AI governance from "Trust but Verify" to **"Verify then Trust."**
 
-## Connect
+---
 
-- LinkedIn: [linkedin.com/in/anandkrshnn](https://www.linkedin.com/in/anandkrshnn)
-- Email: [ananda.krishnan@hotmail.com](mailto:ananda.krishnan@hotmail.com)
+## 📬 Connect
 
-If you're working on sovereign AI, agent verification, or governance-first infrastructure, I’d be glad to connect.
+- **LinkedIn**: [linkedin.com/in/anandkrshnn](https://www.linkedin.com/in/anandkrshnn)
+- **Email**: [ananda.krishnan@hotmail.com](mailto:ananda.krishnan@hotmail.com)
+- **PyPI**: [sovereign-ai-stack](https://pypi.org/project/sovereign-ai-stack/)
+
+*Building for healthcare, finance, and high-stakes infrastructure where "good enough" AI isn't an option.*
