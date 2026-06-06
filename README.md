@@ -1,6 +1,6 @@
 # Anandakrishnan Damodaran
 
-Senior Data Scientist and Quality Engineering Architect. Currently exploring verifiable local-first AI components through open-source experiments.
+Principal Data Scientist and Quality Engineering Architect. Currently exploring verifiable local-first AI components through open-source experiments.
 
 ## Current Focus
 
@@ -20,8 +20,7 @@ Core experiments:
 
 ## Professional Background
 - 17+ years in data engineering, cloud modernization (GCP: GKE, BigQuery, Airflow, Terraform), and quality engineering
-- Transitioning to Quality Engineering Architect Manager role at Accenture (GCP Modernization practice)
-
+- Transitioning to Quality Engineering Architect Manager
 ## Contact
 - LinkedIn: [linkedin.com/in/anandkrshnn](https://www.linkedin.com/in/anandkrshnn)
 - Email: ananda.krishnan@hotmail.com
