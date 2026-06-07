@@ -1,28 +1,35 @@
 # Anandakrishnan Damodaran
 
-Principal Data Scientist and Quality Engineering Architect. Currently exploring verifiable local-first AI components through open-source experiments.
+Principal Data Scientist and Quality Engineering Architect. 
+Exploring verifiable local-first AI through open-source experiments.
 
-## Current Focus
+## Current Role
+Quality Engineering Architect Manager at Accenture, leading GCP modernization 
+(GKE, BigQuery, Airflow, Terraform) for enterprise platforms.
 
-**[sovereign-ai-stack](https://github.com/anandkrshnn/sovereign-ai-stack)** (v0.2.0-alpha)
+## Platform Research
 
-A personal research prototype for experimenting with local AI verification building blocks.
+**[sovereign-ai-stack](https://github.com/anandkrshnn/sovereign-ai-stack)** — v0.2.0-alpha  
+Local-first verification primitive: NLI grounding + Ed25519 audit logging.  
+Status: Research prototype. See [LIMITATIONS.md](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/LIMITATIONS.md).
 
-Core experiments:
-- NLI-based grounding (local DeBERTa-v3 cross-encoder) to check if generated answers are entailed by context
-- Tamper-evident audit logging using Ed25519 signatures on append-only JSONL
+**[ptv-protocol-reference](https://github.com/anandkrshnn/ptv-protocol-reference)** — Reference implementation  
+IETF personal draft: [Attested Agent Identity (PTV)](https://datatracker.ietf.org/doc/html/draft-anandakrishnan-ptv-00).
 
-**Status**: Early alpha research code. Significant limitations exist (see [KNOWN_GAPS.md](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/docs/KNOWN_GAPS.md) and [LIMITATIONS.md](https://github.com/anandkrshnn/sovereign-ai-stack/blob/main/LIMITATIONS.md)). Not intended for production use.
+## Writing
 
-## Standards Work
-
-- IETF Individual Draft: [Attested Agent Identity (PTV)](https://datatracker.ietf.org/doc/html/draft-anandakrishnan-ptv-00) — Personal contribution on hardware-anchored agent attestation. Not yet adopted by the RATS working group.
+**[The Post-Application Enterprise](https://www.linkedin.com/posts/anandkrshnn_the-post-application-era-framework-activity-7440750140090454016-Qe6B/)** — February 2026  
+6 Levels of Enterprise AI Automation for CIOs navigating the shift from 
+human-driven UIs to agent-driven orchestration on Google Cloud.
 
 ## Professional Background
-- 17+ years in data engineering, cloud modernization (GCP: GKE, BigQuery, Airflow, Terraform), and quality engineering
-- Transitioning to Quality Engineering Architect Manager
+
+- Quality Engineering Architect Manager: GCP modernization, platform reliability
+- Principal Data Scientist: data-driven decision systems, analytics platforms
+- Data Engineering: Airflow, BigQuery, Cloud SQL, AlloyDB, PostgreSQL
+- Cloud Architecture: Terraform, GKE, infrastructure-as-code
+
 ## Contact
+
 - LinkedIn: [linkedin.com/in/anandkrshnn](https://www.linkedin.com/in/anandkrshnn)
 - Email: ananda.krishnan@hotmail.com
-
-I publish experimental code and its limitations openly. Not currently hiring, fundraising, or selling products.
